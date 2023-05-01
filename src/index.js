@@ -9,6 +9,7 @@ root.render(
  // <React.StrictMode>
     <App />
  // </React.StrictMode>
+ //깃허브 연동 연습중
 );
 
 
