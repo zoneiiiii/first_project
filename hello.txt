@@ -2,3 +2,4 @@ hello
 modify
 이건 내거임
 내가 만든 코드임
+main에서 쓴 코드임
