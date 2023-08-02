@@ -2,12 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
-import SignUp from "./chapter_11/SignUp";
+import ProfileCard from "./chapter.13/ProfileCard";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   //<React.StrictMode>
-  <SignUp />
+  <ProfileCard />
   //</React.StrictMode>
 );
 
